@@ -88,10 +88,10 @@ type=15,event=0x04,umask=0x03
 ## 其他
 PERF_EVENT 系列文章
 
-[PERF EVENT API篇](./Linux-perf-event-api.md)
-[PERF EVENT 硬件篇](./Linux-perf-event-hardware.md)
-[PERF EVENT 内核篇](./Linux-perf-event-kernel.md)
-[PERF EVENT 硬件篇续](./Linux-perf-event-hardware2.md)
+[PERF EVENT API篇](./perf_api.md)
+[PERF EVENT 硬件篇](./perf_hardware.md)
+[PERF EVENT 内核篇](./perf_kernel.md)
+[PERF EVENT 硬件篇续](./perf_hardware2.md)
 
 
 参考资料
